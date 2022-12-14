@@ -1,0 +1,7 @@
+handle,name,pin,following
+blakeg,Blake Grotewold,1337,fraggle-bob-bananaman
+muskrat,Mustafa Musk,2342,darthvader-bob
+darthvader,Darth Vader,4474,bob-muskrat-fraggle 
+fraggle,Fraggle,7983,
+bananaman,Banana Man,1111,blakeg
+bob,Bob the Builder,3932,fraggle-bananaman
